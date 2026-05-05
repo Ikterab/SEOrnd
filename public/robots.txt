@@ -1,0 +1,7 @@
+# Applies to all search engines
+User-agent: *
+
+Allow: /
+# Block or prevent specific pages
+Disallow: /login
+Disallow: /register
